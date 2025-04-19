@@ -1,5 +1,6 @@
-streamlit
+streamlit==1.24.0
 tensorflow==2.16.1
 opencv-python-headless==4.8.1.78
-numpy==1.23.5
-openai==1.10.0
+numpy==1.26.4
+Pillow
+openai
