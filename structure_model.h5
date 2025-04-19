@@ -1,4 +1,0 @@
-model.save("structure_model.h5")
-
-from google.colab import files
-files.download("structure_model.h5")
